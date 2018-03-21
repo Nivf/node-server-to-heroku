@@ -1,0 +1,11 @@
+This is the Script tags you can run from cmd with npm run test/live command
+
+
+installing - 
+/* For each Project these are command using in the terminal:
+npm init
+npm i morgan cors http express body-parser
+npm install -g nodemon
+npm i dotenv
+npm i mongoose
+*/
